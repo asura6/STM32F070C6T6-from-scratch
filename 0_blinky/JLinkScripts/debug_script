@@ -1,0 +1,6 @@
+device STM32F070C6
+if swd
+speed 4000
+power on
+connect
+r 
